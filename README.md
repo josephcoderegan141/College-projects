@@ -1,1 +1,1 @@
-In this repository i have all the labs i complete in college during my second year
+In this repository i have all the labs i completed in college during my second year
