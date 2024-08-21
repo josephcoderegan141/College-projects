@@ -1,2 +1,1 @@
-This is a Java program that checks whether a given integer is a prime number or not.
-Additionally the program also checks for and lists all the prime numbers in a specified range.
+In this repository i have all the labs i complited in college during my second year
